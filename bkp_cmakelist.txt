@@ -1,0 +1,54 @@
+cmake_minimum_required(VERSION 3.11)
+project(MyProject)
+
+include(FetchContent)
+
+FetchContent_Declare(
+    fmt
+    GIT_REPOSITORY https://github.com/fmtlib/fmt.git
+    GIT_TAG        7.0.0 
+)
+
+FetchContent_MakeAvailable(fmt)
+
+FetchContent_Declare(
+    jsoncpp
+    GIT_REPOSITORY https://github.com/open-source-parsers/jsoncpp.git
+    GIT_TAG        1.9.0
+)
+FetchContent_MakeAvailable(jsoncpp)
+
+FetchContent_Declare(
+    curl
+    GIT_REPOSITORY https://github.com/curl/curl.git
+    GIT_TAG        curl-8_3_0
+)
+
+FetchContent_MakeAvailable(curl)
+
+FetchContent_Declare(
+    reylib
+    GIT_REPOSITORY https://github.com/raysan5/raylib.git
+    GIT_TAG        4.2.0
+)
+FetchContent_MakeAvailable(reylib)
+
+FetchContent_Declare(
+    cppsimpleuri
+    GIT_REPOSITORY https://github.com/salzaverde/cppsimpleuri.git
+    GIT_TAG v2.1.0
+)
+FetchContent_MakeAvailable(cppsimpleuri)
+
+FetchContent_Declare(
+    pugxml
+    GIT_REPOSITORY https://github.com/zeux/pugixml.git
+    GIT_TAG v1.14
+)
+FetchContent_MakeAvailable(pugxml)
+
+# Now you can use the libraries as part of your project
+add_executable(MyTarget main.cpp)
+
+# Link against fmt, cpp-json, and pugixml
+target_link_libraries(MyTarget PRIVATE fmt::fmt cpp-json pugixml)
