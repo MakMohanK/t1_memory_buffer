@@ -1,0 +1,14 @@
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/install/strip.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/install/local.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/install.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/list_install_components.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/rebuild_cache.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/edit_cache.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/CMakeFiles/MyExecutable.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/install/strip.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/install/local.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/install.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/list_install_components.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build/CMakeFiles/fmt.dir

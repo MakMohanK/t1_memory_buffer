@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build",
+  "command": "/usr/bin/g++   -I/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/include  -g   -o CMakeFiles/MyExecutable.dir/main.cpp.o -c /home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/main.cpp",
+  "file": "/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/main.cpp"
+},
+{
+  "directory": "/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build",
+  "command": "/usr/bin/g++   -I/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/include  -g   -o CMakeFiles/fmt.dir/src/format.cc.o -c /home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/src/format.cc",
+  "file": "/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/src/format.cc"
+},
+{
+  "directory": "/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-build",
+  "command": "/usr/bin/g++   -I/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/include  -g   -o CMakeFiles/fmt.dir/src/os.cc.o -c /home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/src/os.cc",
+  "file": "/home/kalyan/Desktop/CPP_Projects/t1_memory_buffer/build/_deps/fmt-src/src/os.cc"
+}
+]
