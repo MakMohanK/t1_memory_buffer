@@ -1,5 +1,5 @@
 # t1_memory_buffer
-PSMA Test Project One
+Test Project One
 
 # Project: Memmory Buffer
 
